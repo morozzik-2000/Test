@@ -9,7 +9,7 @@ int sum(int a, int b) {
 int main()
 {
     int a = sum(3, 4);
-    
+    cout << a;
 }
 
 
